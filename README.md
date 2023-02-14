@@ -15,7 +15,7 @@
 
 ## Features list:
 
-* Small exe file size, Only 33kB. Portable, no installation needed.
+* Small exe file size. Portable, no installation needed.
 * Support high baudrate of USB to serial converter ICs, ex CH340、PL2303、FT232、cp2102.
 * Support dynamic plug and play with usb to serial ICs.
 * Display with HEX and ASCII mode.
