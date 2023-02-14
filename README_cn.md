@@ -1,9 +1,9 @@
-# A8串口调试助手是a8blog.com网站的一款使用直观，操作简单的串口调试软件
+## A8串口调试助手是a8blog.com网站的一款使用直观，操作简单的串口调试软件
 
 ![Intra screenshot](screenshot_cn.jpg?raw=true)
 
 
-## [直接下载编译后的Exe文件](https://a8blog.com/uart_rs232_debug.htm)
+## [下载编译后的Exe文件](https://a8blog.com/uart_rs232_debug.htm)
 
 ## 项目情况
 
