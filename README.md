@@ -4,6 +4,7 @@
 
 
 ## [Download Binary Exe File](https://a8blog.com/en_uart_rs232_debug.htm)
+## [简体中文版介绍](README_cn.md)
 
 ## Project
 
