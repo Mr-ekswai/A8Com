@@ -1,4 +1,4 @@
-## A8串口调试助手是a8blog.com网站的一款使用直观，操作简单的串口调试软件
+## A8串口调试助手是一款使用直观，操作简单的串口调试软件
 
 ![Intra screenshot](screenshot_cn.jpg?raw=true)
 
