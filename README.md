@@ -1,6 +1,6 @@
 # A8 serial monitor is a uart/rs232/com port monitor/debug software
 
-![Intra screenshot](screenshot.jpg?raw=true)
+![Intra screenshot](screenshot.jpg)
 
 
 ## [Download Binary Exe File](https://a8blog.com/en_uart_rs232_debug.htm)
