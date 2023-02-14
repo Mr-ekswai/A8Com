@@ -2,6 +2,9 @@
 
 ![Intra screenshot](screenshot.jpg?raw=true)
 
+
+## [Download Binary Exe File](https://a8blog.com/en_uart_rs232_debug.htm)
+
 ## Project
 
 * Windows sdk api only, no mfc
@@ -20,3 +23,4 @@
 * Send file to serial also support.
 * Support time controled automatic send.
 * It supports appending newline character after sending string.
+* For more infomation please visit [https://a8blog.com/en_uart_rs232_debug.htm](https://a8blog.com/en_uart_rs232_debug.htm)
